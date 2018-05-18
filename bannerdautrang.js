@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2zCvenl' target='_blank'><img src='https://4.bp.blogspot.com/-05LKJlG5bNA/Wh7iDkQWw7I/AAAAAAAACyE/E_I7sPddSPct6PlVJ-5VZvAb-i156u2ZgCLcBGAs/s1600/24099642_192870521270990_1197361105_n%2B-%2BCopy.jpg' width='500px'/><br/>Nội thất giá rẻ nhất gò vấp</a>. Liên hệ 0901 323 886 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2zCvenl' target='_blank'><img src='https://2.bp.blogspot.com/-YDbaoiJb9T0/Wv42jKOXFoI/AAAAAAAADV0/zM8k5EWS-a44KUp6LwiRSRM5UM0T9FezQCLcBGAs/s1600/banner-khuyen-mai-t6.jpg' width='700px'/><br/>Trả góp xe tải </a>. Liên hệ 0901 323 886 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
