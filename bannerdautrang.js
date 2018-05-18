@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2zCvenl' target='_blank'><img src='https://2.bp.blogspot.com/-YDbaoiJb9T0/Wv42jKOXFoI/AAAAAAAADV0/zM8k5EWS-a44KUp6LwiRSRM5UM0T9FezQCLcBGAs/s1600/banner-khuyen-mai-t6.jpg' width='700px'/><br/>Trả góp xe tải </a>. Liên hệ 0901 323 886 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2x0gceD' target='_blank'><img src='https://2.bp.blogspot.com/-YDbaoiJb9T0/Wv42jKOXFoI/AAAAAAAADV0/zM8k5EWS-a44KUp6LwiRSRM5UM0T9FezQCLcBGAs/s1600/banner-khuyen-mai-t6.jpg' width='700px'/><br/>Trả góp xe tải </a>. Liên hệ 0901 323 886 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
